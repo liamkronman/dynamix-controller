@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="LiamKovid\KovidKonsole\Header Files\tft.h">
+<ExpandedNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\TopDesign</v>
+<v>LiamKovid\KovidKonsole\KovidKonsole.cydwr</v>
+<v>LiamKovid\KovidKonsole\Header Files</v>
+<v>LiamKovid\KovidKonsole\Header Files\cyapicallbacks.h</v>
+<v>LiamKovid\KovidKonsole\Header Files\GUIDRV_FlexColor.h</v>
+<v>LiamKovid\KovidKonsole\Header Files\LCDConf.h</v>
+<v>LiamKovid\KovidKonsole\Header Files\main.h</v>
+<v>LiamKovid\KovidKonsole\Header Files\tft.h</v>
+<v>LiamKovid\KovidKonsole\Source Files</v>
+<v>LiamKovid\KovidKonsole\Source Files\GUI_X.c</v>
+<v>LiamKovid\KovidKonsole\Source Files\GUIConf.c</v>
+<v>LiamKovid\KovidKonsole\Source Files\LCDConf.c</v>
+<v>LiamKovid\KovidKonsole\Source Files\main.c</v>
+<v>LiamKovid\KovidKonsole\Source Files\tft.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L\ADC_FlexSensor_L.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L\ADC_FlexSensor_L.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L\ADC_FlexSensor_L_INT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L\ADC_FlexSensor_L_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_Bypass</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_Bypass\ADC_FlexSensor_L_Bypass.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_Bypass\ADC_FlexSensor_L_Bypass.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_Bypass\ADC_FlexSensor_L_Bypass_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_IRQ</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_IRQ\ADC_FlexSensor_L_IRQ.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_IRQ\ADC_FlexSensor_L_IRQ.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_theACLK</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_theACLK\ADC_FlexSensor_L_theACLK.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_theACLK\ADC_FlexSensor_L_theACLK.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R\ADC_FlexSensor_R.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R\ADC_FlexSensor_R.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R\ADC_FlexSensor_R_INT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R\ADC_FlexSensor_R_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_AMux</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_AMux\ADC_FlexSensor_R_AMux.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_AMux\ADC_FlexSensor_R_AMux.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_Ext_CP_Clk</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_Ext_CP_Clk\ADC_FlexSensor_R_Ext_CP_Clk.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_Ext_CP_Clk\ADC_FlexSensor_R_Ext_CP_Clk.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_IRQ</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_IRQ\ADC_FlexSensor_R_IRQ.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_IRQ\ADC_FlexSensor_R_IRQ.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_theACLK</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_theACLK\ADC_FlexSensor_R_theACLK.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_theACLK\ADC_FlexSensor_R_theACLK.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\AudioTimer</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\AudioTimer\AudioTimer.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\AudioTimer\AudioTimer.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\AudioTimer\AudioTimer_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\audiotimer_isr</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\audiotimer_isr\audiotimer_isr.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\audiotimer_isr\audiotimer_isr.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\CLK</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\CLK\CLK.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\CLK\CLK.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\CLK\CLK_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\CSLD</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\CSLD\CSLD.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\CSLD\CSLD.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\CSLD\CSLD_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cm3gcc.ld</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\Cm3Iar.icf</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\Cm3RealView.scat</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\Cm3Start.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cmsis_armcc.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cmsis_gcc.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\core_cm3.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\core_cm3_psoc5.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\core_cmFunc.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\core_cmInstr.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyBootAsmGnu.s</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyBootAsmIar.s</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyBootAsmRv.s</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyDmac.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyDmac.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyFlash.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyFlash.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyLib.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyLib.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cypins.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cyPm.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cyPm.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CySpc.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CySpc.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cytypes.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cyutils.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\DC</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\DC\DC.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\DC\DC.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\DC\DC_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\DIN</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\DIN\DIN.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\DIN\DIN.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\DIN\DIN_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile\emFile.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile\emFile_ConfigMMC_SPI.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile\emFile_MMC_HW_SPI.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile\emFile_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_Clock_1</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_Clock_1\emFile_Clock_1.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_Clock_1\emFile_Clock_1.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_miso0</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_miso0\emFile_miso0.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_miso0\emFile_miso0.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_miso0\emFile_miso0_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_mosi0</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_mosi0\emFile_mosi0.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_mosi0\emFile_mosi0.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_mosi0\emFile_mosi0_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_sclk0</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_sclk0\emFile_sclk0.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_sclk0\emFile_sclk0.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_sclk0\emFile_sclk0_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_SPI0</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_SPI0\emFile_SPI0.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_SPI0\emFile_SPI0.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_SPI0\emFile_SPI0_INT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_SPI0\emFile_SPI0_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_SPI0\emFile_SPI0_PVT.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_SPI0_CS</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_SPI0_CS\emFile_SPI0_CS.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_SPI0_CS\emFile_SPI0_CS.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\emFile_SPI0_CS\emFile_SPI0_CS_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FlexSensor_1</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FlexSensor_1\FlexSensor_1.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FlexSensor_1\FlexSensor_1.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FlexSensor_1\FlexSensor_1_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FlexSensor_2</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FlexSensor_2\FlexSensor_2.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FlexSensor_2\FlexSensor_2.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FlexSensor_2\FlexSensor_2_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\get_adcs_isr</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\get_adcs_isr\get_adcs_isr.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\get_adcs_isr\get_adcs_isr.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\Get_ADCs_Timer</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\Get_ADCs_Timer\Get_ADCs_Timer.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\Get_ADCs_Timer\Get_ADCs_Timer.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\Get_ADCs_Timer\Get_ADCs_Timer_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\I2C_MASTER_L</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\I2C_MASTER_L\I2C_MASTER_L.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\I2C_MASTER_L\I2C_MASTER_L.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\I2C_MASTER_L\I2C_MASTER_L_BOOT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\I2C_MASTER_L\I2C_MASTER_L_INT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\I2C_MASTER_L\I2C_MASTER_L_MASTER.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\I2C_MASTER_L\I2C_MASTER_L_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\I2C_MASTER_L\I2C_MASTER_L_PVT.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\I2C_MASTER_L\I2C_MASTER_L_SLAVE.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\LED</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\LED\LED.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\LED\LED.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\LED\LED_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MISO_1</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MISO_1\MISO_1.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MISO_1\MISO_1.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MISO_1\MISO_1_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MISO_TFT</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MISO_TFT\MISO_TFT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MISO_TFT\MISO_TFT.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MISO_TFT\MISO_TFT_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MOSI_TFT</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MOSI_TFT\MOSI_TFT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MOSI_TFT\MOSI_TFT.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\MOSI_TFT\MOSI_TFT_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\RESET</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\RESET\RESET.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\RESET\RESET.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\RESET\RESET_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SCL_1</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SCL_1\SCL_1.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SCL_1\SCL_1.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SCL_1\SCL_1_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SCLK_TFT</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SCLK_TFT\SCLK_TFT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SCLK_TFT\SCLK_TFT.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SCLK_TFT\SCLK_TFT_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SDA_1</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SDA_1\SDA_1.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SDA_1\SDA_1.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SDA_1\SDA_1_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_Audio</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_Audio\SPIM_Audio.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_Audio\SPIM_Audio.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_Audio\SPIM_Audio_INT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_Audio\SPIM_Audio_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_Audio\SPIM_Audio_PVT.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_Audio_IntClock</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_Audio_IntClock\SPIM_Audio_IntClock.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_Audio_IntClock\SPIM_Audio_IntClock.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_TFT</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_TFT\SPIM_TFT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_TFT\SPIM_TFT.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_TFT\SPIM_TFT_INT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_TFT\SPIM_TFT_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_TFT\SPIM_TFT_PVT.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_TFT_IntClock</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_TFT_IntClock\SPIM_TFT_IntClock.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SPIM_TFT_IntClock\SPIM_TFT_IntClock.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SS_TFT</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SS_TFT\SS_TFT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SS_TFT\SS_TFT.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\SS_TFT\SS_TFT_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\TimeStamp_Timer</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\TimeStamp_Timer\TimeStamp_Timer.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\TimeStamp_Timer\TimeStamp_Timer.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\TimeStamp_Timer\TimeStamp_Timer_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\timestamp_timer_isr</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\timestamp_timer_isr\timestamp_timer_isr.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\timestamp_timer_isr\timestamp_timer_isr.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevice.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevicerv.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydisabledsheets.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfitter.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfitter_cfg.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfitter_cfg.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfittergnu.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfitteriar.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfitterrv.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cymetadata.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LiamKovid\KovidKonsole\KovidKonsole.cydwr</v>
+<v>LiamKovid\KovidKonsole\Header Files</v>
+<v>LiamKovid\KovidKonsole\Header Files\cyapicallbacks.h</v>
+<v>LiamKovid\KovidKonsole\Header Files\GUIDRV_FlexColor.h</v>
+<v>LiamKovid\KovidKonsole\Header Files\LCDConf.h</v>
+<v>LiamKovid\KovidKonsole\Header Files\main.h</v>
+<v>LiamKovid\KovidKonsole\Header Files\tft.h</v>
+<v>LiamKovid\KovidKonsole\Source Files</v>
+<v>LiamKovid\KovidKonsole\Source Files\GUI_X.c</v>
+<v>LiamKovid\KovidKonsole\Source Files\GUIConf.c</v>
+<v>LiamKovid\KovidKonsole\Source Files\LCDConf.c</v>
+<v>LiamKovid\KovidKonsole\Source Files\main.c</v>
+<v>LiamKovid\KovidKonsole\Source Files\tft.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L\ADC_FlexSensor_L.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L\ADC_FlexSensor_L.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L\ADC_FlexSensor_L_INT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L\ADC_FlexSensor_L_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_Bypass</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_Bypass\ADC_FlexSensor_L_Bypass.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_Bypass\ADC_FlexSensor_L_Bypass.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_Bypass\ADC_FlexSensor_L_Bypass_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_IRQ</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_IRQ\ADC_FlexSensor_L_IRQ.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_IRQ\ADC_FlexSensor_L_IRQ.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_theACLK</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_theACLK\ADC_FlexSensor_L_theACLK.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_L_theACLK\ADC_FlexSensor_L_theACLK.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R\ADC_FlexSensor_R.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R\ADC_FlexSensor_R.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R\ADC_FlexSensor_R_INT.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R\ADC_FlexSensor_R_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_AMux</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_AMux\ADC_FlexSensor_R_AMux.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_AMux\ADC_FlexSensor_R_AMux.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_Ext_CP_Clk</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_Ext_CP_Clk\ADC_FlexSensor_R_Ext_CP_Clk.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_Ext_CP_Clk\ADC_FlexSensor_R_Ext_CP_Clk.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_IRQ</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_IRQ\ADC_FlexSensor_R_IRQ.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_IRQ\ADC_FlexSensor_R_IRQ.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_theACLK</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_theACLK\ADC_FlexSensor_R_theACLK.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\ADC_FlexSensor_R_theACLK\ADC_FlexSensor_R_theACLK.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\AudioTimer</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\AudioTimer\AudioTimer.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\AudioTimer\AudioTimer.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\AudioTimer\AudioTimer_PM.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\audiotimer_isr</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\audiotimer_isr\audiotimer_isr.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="LiamKovid\KovidKonsole\TopDesign\TopDesign.cysch">
+<ExpandedNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\TopDesign</v>
+<v>LiamKovid\KovidKonsole\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\TopDesign</v>
+<v>LiamKovid\KovidKonsole\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\CortexM3</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L_Bypass.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L_INT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L_IRQ.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L_theACLK.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_AMux.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_Ext_CP_Clk.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_INT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_IRQ.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_theACLK.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\AudioTimer.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\audiotimer_isr.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\AudioTimer_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CLK.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CSLD.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\DC.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\DIN.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_Clock_1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_ConfigMMC_SPI.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_miso0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_MMC_HW_SPI.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_mosi0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_sclk0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_SPI0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_SPI0_CS.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_SPI0_INT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_SPI0_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\FlexSensor_1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\FlexSensor_2.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\get_adcs_isr.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\Get_ADCs_Timer.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\Get_ADCs_Timer_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\GUI_X.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\GUIConf.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\I2C_MASTER_L.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\I2C_MASTER_L_BOOT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\I2C_MASTER_L_INT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\I2C_MASTER_L_MASTER.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\I2C_MASTER_L_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\I2C_MASTER_L_SLAVE.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\LCDConf.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\LED.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\MISO_1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\MISO_TFT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\MOSI_TFT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\RESET.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SCL_1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SCLK_TFT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SDA_1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SPIM_Audio.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SPIM_Audio_INT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SPIM_Audio_IntClock.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SPIM_Audio_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SPIM_TFT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SPIM_TFT_INT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SPIM_TFT_IntClock.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SPIM_TFT_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\SS_TFT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\tft.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\TimeStamp_Timer.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\timestamp_timer_isr.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\TimeStamp_Timer_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\KovidKonsole.elf</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\KovidKonsole.hex</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\KovidKonsole.map</v>
+<v>LiamKovid\KovidKonsole\KovidKonsole.gpdsc</v>
+<v>LiamKovid\KovidKonsole\KovidKonsole.rpt</v>
+<v>LiamKovid\KovidKonsole\KovidKonsole_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\CortexM3</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L_Bypass.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L_INT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L_IRQ.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_L_theACLK.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_AMux.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_Ext_CP_Clk.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_INT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_IRQ.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\ADC_FlexSensor_R_theACLK.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\AudioTimer.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\audiotimer_isr.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\AudioTimer_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CLK.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CSLD.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\DC.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\DIN.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_Clock_1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_ConfigMMC_SPI.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_miso0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_MMC_HW_SPI.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_mosi0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_sclk0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_SPI0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_SPI0_CS.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_SPI0_INT.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\emFile_SPI0_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\FlexSensor_1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\FlexSensor_2.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\get_adcs_isr.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\Get_ADCs_Timer.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\Get_ADCs_Timer_PM.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\GUI_X.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\PSoC 5 Architecture TRM</v>
+<v>LiamKovid\KovidKonsole\CY8C58LP Family Datasheet</v>
+<v>LiamKovid\KovidKonsole\System Reference Guides</v>
+<v>LiamKovid\KovidKonsole\System Reference Guides\cy_boot_v5_40</v>
+<v>LiamKovid\KovidKonsole\ADC_DelSig_v3_20.pdf</v>
+<v>LiamKovid\KovidKonsole\ADC_SAR_v3_0.pdf</v>
+<v>LiamKovid\KovidKonsole\cy_clock_v2_20</v>
+<v>LiamKovid\KovidKonsole\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>LiamKovid\KovidKonsole\cy_constant_v1_0</v>
+<v>LiamKovid\KovidKonsole\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>LiamKovid\KovidKonsole\cy_isr_v1_70</v>
+<v>LiamKovid\KovidKonsole\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>LiamKovid\KovidKonsole\cy_pins_v2_20</v>
+<v>LiamKovid\KovidKonsole\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LiamKovid\KovidKonsole\emFile_v1_20.pdf</v>
+<v>LiamKovid\KovidKonsole\I2C_v3_50.pdf</v>
+<v>LiamKovid\KovidKonsole\SPI_Master_v2_50</v>
+<v>LiamKovid\KovidKonsole\SPI_Master_v2_50\SPI_Master_v2_50.pdf</v>
+<v>LiamKovid\KovidKonsole\Timer_v2_70</v>
+<v>LiamKovid\KovidKonsole\Timer_v2_70\Timer_v2_70.pdf</v>
+<v>LiamKovid\KovidKonsole\ZeroTerminal</v>
+<v>LiamKovid\KovidKonsole\ZeroTerminal\ZeroTerminal.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\PSoC 5 Architecture TRM</v>
+<v>LiamKovid\KovidKonsole\CY8C58LP Family Datasheet</v>
+<v>LiamKovid\KovidKonsole\System Reference Guides</v>
+<v>LiamKovid\KovidKonsole\System Reference Guides\cy_boot_v5_40</v>
+<v>LiamKovid\KovidKonsole\ADC_DelSig_v3_20.pdf</v>
+<v>LiamKovid\KovidKonsole\ADC_SAR_v3_0.pdf</v>
+<v>LiamKovid\KovidKonsole\cy_clock_v2_20</v>
+<v>LiamKovid\KovidKonsole\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>LiamKovid\KovidKonsole\cy_constant_v1_0</v>
+<v>LiamKovid\KovidKonsole\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>LiamKovid\KovidKonsole\cy_isr_v1_70</v>
+<v>LiamKovid\KovidKonsole\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>LiamKovid\KovidKonsole\cy_pins_v2_20</v>
+<v>LiamKovid\KovidKonsole\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LiamKovid\KovidKonsole\emFile_v1_20.pdf</v>
+<v>LiamKovid\KovidKonsole\I2C_v3_50.pdf</v>
+<v>LiamKovid\KovidKonsole\SPI_Master_v2_50</v>
+<v>LiamKovid\KovidKonsole\SPI_Master_v2_50\SPI_Master_v2_50.pdf</v>
+<v>LiamKovid\KovidKonsole\Timer_v2_70</v>
+<v>LiamKovid\KovidKonsole\Timer_v2_70\Timer_v2_70.pdf</v>
+<v>LiamKovid\KovidKonsole\ZeroTerminal</v>
+<v>LiamKovid\KovidKonsole\ZeroTerminal\ZeroTerminal.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators>
+<CyGuid_67999771-01c6-4f62-90b3-2054bb36a318 type_name="CyDesigner.Framework.CyBookmark" version="1">
+<CyGuid_a1027fc4-3497-43a6-85d7-b91ffa0029b7 type_name="CyDesigner.Framework.CySerializableMarginIndicator" version="1" LineNumber="25" DocumentName=".\KovidKonsole.cydsn\tft.c" />
+</CyGuid_67999771-01c6-4f62-90b3-2054bb36a318>
+<CyGuid_67999771-01c6-4f62-90b3-2054bb36a318 type_name="CyDesigner.Framework.CyBookmark" version="1">
+<CyGuid_a1027fc4-3497-43a6-85d7-b91ffa0029b7 type_name="CyDesigner.Framework.CySerializableMarginIndicator" version="1" LineNumber="38" DocumentName=".\KovidKonsole.cydsn\tft.c" />
+</CyGuid_67999771-01c6-4f62-90b3-2054bb36a318>
+<CyGuid_67999771-01c6-4f62-90b3-2054bb36a318 type_name="CyDesigner.Framework.CyBookmark" version="1">
+<CyGuid_a1027fc4-3497-43a6-85d7-b91ffa0029b7 type_name="CyDesigner.Framework.CySerializableMarginIndicator" version="1" LineNumber="39" DocumentName=".\KovidKonsole.cydsn\tft.c" />
+</CyGuid_67999771-01c6-4f62-90b3-2054bb36a318>
+<CyGuid_67999771-01c6-4f62-90b3-2054bb36a318 type_name="CyDesigner.Framework.CyBookmark" version="1">
+<CyGuid_a1027fc4-3497-43a6-85d7-b91ffa0029b7 type_name="CyDesigner.Framework.CySerializableMarginIndicator" version="1" LineNumber="56" DocumentName=".\KovidKonsole.cydsn\tft.c" />
+</CyGuid_67999771-01c6-4f62-90b3-2054bb36a318>
+<CyGuid_67999771-01c6-4f62-90b3-2054bb36a318 type_name="CyDesigner.Framework.CyBookmark" version="1">
+<CyGuid_a1027fc4-3497-43a6-85d7-b91ffa0029b7 type_name="CyDesigner.Framework.CySerializableMarginIndicator" version="1" LineNumber="57" DocumentName=".\KovidKonsole.cydsn\tft.c" />
+</CyGuid_67999771-01c6-4f62-90b3-2054bb36a318>
+<CyGuid_67999771-01c6-4f62-90b3-2054bb36a318 type_name="CyDesigner.Framework.CyBookmark" version="1">
+<CyGuid_a1027fc4-3497-43a6-85d7-b91ffa0029b7 type_name="CyDesigner.Framework.CySerializableMarginIndicator" version="1" LineNumber="24" DocumentName=".\KovidKonsole.cydsn\tft.c" />
+</CyGuid_67999771-01c6-4f62-90b3-2054bb36a318>
+<CyGuid_67999771-01c6-4f62-90b3-2054bb36a318 type_name="CyDesigner.Framework.CyBookmark" version="1">
+<CyGuid_a1027fc4-3497-43a6-85d7-b91ffa0029b7 type_name="CyDesigner.Framework.CySerializableMarginIndicator" version="1" LineNumber="482" DocumentName=".\KovidKonsole.cydsn\main.c" />
+</CyGuid_67999771-01c6-4f62-90b3-2054bb36a318>
+</indicators>
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\KovidKonsole.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\KovidKonsole.cydsn\KovidKonsole.cydwr" />
+<name v=".\KovidKonsole.cydsn\main.c" />
+<name v=".\KovidKonsole.cydsn\Generated_Source\PSoC5\CSLD.h" />
+<name v=".\KovidKonsole.cydsn\Generated_Source\PSoC5\cm3gcc.ld" />
+<name v=".\KovidKonsole.cydsn\tft.c" />
+<name v=".\KovidKonsole.cydsn\tft.h" />
+<name v=".\KovidKonsole.cydsn\cyapicallbacks.h" />
+<name v=".\KovidKonsole.cydsn\GUIDRV_FlexColor.h" />
+<name v=".\KovidKonsole.cydsn\LCDConf.h" />
+<name v=".\KovidKonsole.cydsn\GUI_X.c" />
+<name v=".\KovidKonsole.cydsn\GUIConf.c" />
+<name v=".\KovidKonsole.cydsn\LCDConf.c" />
+<name v=".\KovidKonsole.cydsn\main.h" />
+<name v=".\KovidKonsole.cydsn\KovidKonsole.rpt" />
+<name v=".\KovidKonsole.cydsn\Generated_Source\PSoC5\CyBootAsmGnu.s" />
+</OpenDocs>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

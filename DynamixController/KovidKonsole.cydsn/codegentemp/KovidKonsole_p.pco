@@ -1,0 +1,113 @@
+dont_use_io iocell 1 0
+dont_use_io iocell 1 1
+dont_use_io iocell 1 3
+set_location "\Get_ADCs_Timer:TimerUDB:sT32:timerdp:u0\" datapathcell 3 4 2 
+set_location "\TimeStamp_Timer:TimerUDB:sT32:timerdp:u0\" datapathcell 2 0 2 
+set_location "\emFile:SPI0:BSPIM:tx_status_0\" macrocell 0 3 1 2
+set_location "\emFile:SPI0:BSPIM:mosi_hs_reg\" macrocell 2 0 0 3
+set_location "\SPIM_Audio:BSPIM:BitCounter\" count7cell 3 1 7 
+set_location "\emFile:SPI0:BSPIM:ld_ident\" macrocell 0 3 0 0
+set_location "\SPIM_TFT:BSPIM:load_rx_data\" macrocell 1 3 1 1
+set_location "\emFile:SPI0:BSPIM:load_rx_data\" macrocell 1 2 1 1
+set_location "\SPIM_TFT:BSPIM:state_1\" macrocell 2 5 1 1
+set_location "\emFile:SPI0:BSPIM:state_1\" macrocell 0 2 0 0
+set_location "\SPIM_TFT:BSPIM:TxStsReg\" statusicell 1 4 4 
+set_location "Net_159" macrocell 3 3 1 2
+set_location "\emFile:SPI0:BSPIM:mosi_pre_reg_split_1\" macrocell 1 1 1 0
+set_location "\emFile:Net_10\" macrocell 3 0 1 2
+set_location "\emFile:SPI0:BSPIM:tx_status_4\" macrocell 2 3 0 2
+set_location "\SPIM_Audio:BSPIM:state_2\" macrocell 3 4 0 1
+set_location "\emFile:SPI0:BSPIM:TxStsReg\" statusicell 1 3 4 
+set_location "\SPIM_TFT:BSPIM:rx_status_6\" macrocell 1 4 0 2
+set_location "\emFile:SPI0:BSPIM:rx_status_6\" macrocell 1 1 1 2
+set_location "\Get_ADCs_Timer:TimerUDB:sT32:timerdp:u1\" datapathcell 2 4 2 
+set_location "\TimeStamp_Timer:TimerUDB:sT32:timerdp:u1\" datapathcell 3 0 2 
+set_location "\SPIM_TFT:BSPIM:state_2\" macrocell 2 3 1 0
+set_location "Net_327" macrocell 2 4 0 0
+set_location "\emFile:SPI0:BSPIM:mosi_from_dp_reg\" macrocell 2 1 0 2
+set_location "\Get_ADCs_Timer:TimerUDB:rstSts:stsreg\" statusicell 3 5 4 
+set_location "\TimeStamp_Timer:TimerUDB:rstSts:stsreg\" statusicell 2 1 4 
+set_location "\SPIM_Audio:BSPIM:cnt_enable\" macrocell 3 2 1 1
+set_location "\SPIM_TFT:BSPIM:BitCounter\" count7cell 2 5 7 
+set_location "\SPIM_Audio:BSPIM:RxStsReg\" statusicell 2 2 4 
+set_location "\SPIM_Audio:BSPIM:TxStsReg\" statusicell 3 0 4 
+set_location "\SPIM_Audio:BSPIM:ld_ident\" macrocell 3 5 1 1
+set_location "\SPIM_Audio:BSPIM:tx_status_0\" macrocell 3 0 0 1
+set_location "\SPIM_TFT:BSPIM:tx_status_0\" macrocell 1 4 0 3
+set_location "\emFile:SPI0:BSPIM:mosi_pre_reg_split\" macrocell 1 2 0 0
+set_location "\emFile:Net_22\" macrocell 3 1 1 3
+set_location "\SPIM_TFT:BSPIM:sR8:Dp:u0\" datapathcell 1 4 2 
+set_location "\Get_ADCs_Timer:TimerUDB:sT32:timerdp:u3\" datapathcell 3 3 2 
+set_location "\TimeStamp_Timer:TimerUDB:sT32:timerdp:u3\" datapathcell 2 1 2 
+set_location "\SPIM_TFT:BSPIM:load_cond\" macrocell 1 3 0 0
+set_location "\Get_ADCs_Timer:TimerUDB:sT32:timerdp:u2\" datapathcell 2 3 2 
+set_location "\TimeStamp_Timer:TimerUDB:sT32:timerdp:u2\" datapathcell 3 1 2 
+set_location "Net_174" macrocell 2 4 1 1
+set_location "\SPIM_Audio:BSPIM:state_1\" macrocell 3 4 1 0
+set_location "\SPIM_TFT:BSPIM:state_0\" macrocell 1 3 1 0
+set_location "\SPIM_Audio:BSPIM:load_cond\" macrocell 3 1 0 0
+set_location "\emFile:SPI0:BSPIM:sR8:Dp:u0\" datapathcell 1 1 2 
+set_location "\emFile:SPI0:BSPIM:load_cond\" macrocell 0 3 1 3
+set_location "\SPIM_TFT:BSPIM:cnt_enable\" macrocell 2 5 0 0
+set_location "\SPIM_Audio:BSPIM:load_rx_data\" macrocell 3 1 1 0
+set_location "\emFile:SPI0:BSPIM:state_2\" macrocell 0 1 0 2
+set_location "Net_330" macrocell 0 4 0 2
+set_location "\SPIM_Audio:BSPIM:sR16:Dp:u0\" datapathcell 3 2 2 
+set_location "\SPIM_Audio:BSPIM:tx_status_4\" macrocell 3 0 1 0
+set_location "\SPIM_TFT:BSPIM:tx_status_4\" macrocell 1 4 1 3
+set_location "Net_328" macrocell 0 4 1 3
+set_location "\emFile:SPI0:BSPIM:mosi_pre_reg\" macrocell 1 1 0 3
+set_location "__ONE__" macrocell 0 0 0 2
+set_location "\SPIM_TFT:BSPIM:RxStsReg\" statusicell 0 4 4 
+set_location "\emFile:SPI0:BSPIM:cnt_enable\" macrocell 0 2 1 2
+set_location "\SPIM_Audio:BSPIM:state_0\" macrocell 2 0 1 3
+set_location "\SPIM_Audio:BSPIM:rx_status_6\" macrocell 3 2 1 3
+set_location "\emFile:Net_1\" macrocell 3 2 0 1
+set_location "\emFile:SPI0:BSPIM:state_0\" macrocell 0 2 0 1
+set_location "\SPIM_Audio:BSPIM:sR16:Dp:u1\" datapathcell 2 2 2 
+set_location "\emFile:SPI0:BSPIM:RxStsReg\" statusicell 1 1 4 
+set_location "\Get_ADCs_Timer:TimerUDB:status_tc\" macrocell 3 5 1 2
+set_location "\TimeStamp_Timer:TimerUDB:status_tc\" macrocell 2 2 0 2
+set_location "Net_250" macrocell 3 5 0 3
+set_location "\emFile:SPI0:BSPIM:BitCounter\" count7cell 0 2 7 
+set_location "\SPIM_TFT:BSPIM:ld_ident\" macrocell 2 3 0 3
+set_io "MISO_1(0)" iocell 1 6
+set_location "\I2C_MASTER_L:I2C_FF\" i2ccell -1 -1 0
+set_io "LED(0)" iocell 2 2
+set_io "RESET(0)" iocell 2 6
+set_location "audiotimer_isr" interrupt -1 -1 17
+set_location "\I2C_MASTER_L:I2C_IRQ\" interrupt -1 -1 15
+set_location "get_adcs_isr" interrupt -1 -1 1
+set_location "\ADC_FlexSensor_R:IRQ\" interrupt -1 -1 29
+set_location "timestamp_timer_isr" interrupt -1 -1 2
+set_location "\ADC_FlexSensor_L:IRQ\" interrupt -1 -1 0
+set_location "\Get_ADCs_Timer:TimerUDB:sCTRLReg:SyncCtl:ctrlreg\" controlcell 2 4 6 
+set_location "\TimeStamp_Timer:TimerUDB:sCTRLReg:SyncCtl:ctrlreg\" controlcell 2 0 6 
+# Note: port 12 is the logical name for port 7
+set_io "SCL_1(0)" iocell 12 4
+set_location "ClockBlock" clockblockcell -1 -1 0
+set_io "MOSI_TFT(0)" iocell 2 4
+set_location "\AudioTimer:TimerHW\" timercell -1 -1 0
+# Note: port 15 is the logical name for port 8
+set_io "\emFile:mosi0(0)\" iocell 15 2
+set_location "\ADC_FlexSensor_R:DSM\" dsmodcell -1 -1 0
+set_io "SCLK_TFT(0)" iocell 2 3
+# Note: port 15 is the logical name for port 8
+set_io "\emFile:miso0(0)\" iocell 15 3
+set_io "CLK(0)" iocell 0 7
+set_location "\ADC_FlexSensor_L:ADC_SAR\" sarcell -1 -1 1
+# Note: port 12 is the logical name for port 7
+set_io "SDA_1(0)" iocell 12 5
+set_location "\ADC_FlexSensor_R:DEC\" decimatorcell -1 -1 0
+set_io "CSLD(0)" iocell 0 6
+set_io "SS_TFT(0)" iocell 2 7
+set_io "DIN(0)" iocell 0 5
+# Note: port 15 is the logical name for port 8
+set_io "\emFile:sclk0(0)\" iocell 15 1
+set_io "FlexSensor_1(0)" iocell 0 4
+# Note: port 15 is the logical name for port 8
+set_io "\emFile:SPI0_CS(0)\" iocell 15 0
+set_io "DC(0)" iocell 2 5
+set_io "\ADC_FlexSensor_L:Bypass(0)\" iocell 0 2
+set_io "FlexSensor_2(0)" iocell 0 3
+set_io "MISO_TFT(0)" iocell 2 1

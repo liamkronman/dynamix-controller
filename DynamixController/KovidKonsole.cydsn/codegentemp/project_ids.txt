@@ -1,0 +1,5 @@
+D:\FP\LiamKovid\KovidKonsole.cydsn\KovidKonsole.cyprj|070606c0-dac9-47c2-835e-e720baa9db4e
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|78555dda-6282-4fbd-9bc7-1710850d1ff6
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|606319b9-c6c1-4d18-abbf-c207ed9ed0a6
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|610b9530-e022-4b9f-8909-ed82fc7b421c
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a572f464-f201-4e48-a4cc-f58527953e4f

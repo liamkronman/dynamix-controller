@@ -1,0 +1,474 @@
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_L.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_theACLK.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_theACLK.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_L_Bypass.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_Bypass.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_Bypass.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_Bypass_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_Bypass.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_Bypass.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_Bypass_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_L_INT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_INT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_INT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_L_IRQ.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_IRQ.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_IRQ.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_IRQ.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_IRQ.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_L_PM.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_PM.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_PM.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_L_theACLK.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_theACLK.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_theACLK.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_theACLK.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_R.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_AMux.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_Ext_CP_Clk.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_theACLK.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_AMux.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_Ext_CP_Clk.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_theACLK.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_R_AMux.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_AMux.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_AMux.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_AMux.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_R_Ext_CP_Clk.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_Ext_CP_Clk.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_Ext_CP_Clk.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_Ext_CP_Clk.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_R_INT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_INT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_INT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_R_IRQ.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_IRQ.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_IRQ.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_IRQ.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_IRQ.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_R_PM.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_PM.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_PM.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/ADC_FlexSensor_R_theACLK.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_theACLK.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_theACLK.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_theACLK.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/AudioTimer.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/AudioTimer.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/AudioTimer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/AudioTimer.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/AudioTimer.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/AudioTimer_PM.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/AudioTimer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/AudioTimer_PM.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/AudioTimer_PM.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/CLK.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CLK.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CLK.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CLK_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CLK.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CLK.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CLK_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/CSLD.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CSLD.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CSLD.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CSLD_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CSLD.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CSLD.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CSLD_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/Cm3Start.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/Cm3Start.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyDmac.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/Cm3Start.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/CyDmac.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyDmac.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyDmac.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyDmac.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/CyFlash.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/CyLib.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/CySpc.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/DC.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DC.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DC.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DC_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DC.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DC.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DC_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/DIN.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DIN.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DIN.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DIN_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DIN.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DIN.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DIN_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/FlexSensor_1.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_1.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_1.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_1.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_1_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/FlexSensor_2.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_2.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_2.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_2_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_2.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_2.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_2_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/Get_ADCs_Timer.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/Get_ADCs_Timer.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/Get_ADCs_Timer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/Get_ADCs_Timer.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/Get_ADCs_Timer.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/Get_ADCs_Timer_PM.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/Get_ADCs_Timer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/Get_ADCs_Timer_PM.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/Get_ADCs_Timer_PM.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/I2C_MASTER_L.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_PVT.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/I2C_MASTER_L_BOOT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_BOOT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_BOOT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/I2C_MASTER_L_INT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_INT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_INT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/I2C_MASTER_L_MASTER.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_MASTER.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_MASTER.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/I2C_MASTER_L_PM.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_PM.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_PM.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/I2C_MASTER_L_SLAVE.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_SLAVE.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_SLAVE.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/LED.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/LED.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/LED.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/LED_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/LED.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/LED.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/LED_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/MISO_1.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_1.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_1.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_1.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_1_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/MISO_TFT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_TFT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_TFT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_TFT.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_TFT_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/MOSI_TFT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MOSI_TFT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MOSI_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MOSI_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MOSI_TFT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MOSI_TFT.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MOSI_TFT_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/RESET.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/RESET.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/RESET.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/RESET_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/RESET.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/RESET.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/RESET_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SCLK_TFT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCLK_TFT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCLK_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCLK_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCLK_TFT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCLK_TFT.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCLK_TFT_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SCL_1.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCL_1.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCL_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCL_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCL_1.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCL_1.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCL_1_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SDA_1.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SDA_1.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SDA_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SDA_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SDA_1.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SDA_1.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SDA_1_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SPIM_Audio.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_IntClock.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_PVT.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SPIM_Audio_INT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_INT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_INT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SPIM_Audio_IntClock.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_IntClock.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_IntClock.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SPIM_Audio_PM.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_PM.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_PM.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SPIM_TFT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_IntClock.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_PVT.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SPIM_TFT_INT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_INT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_INT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SPIM_TFT_IntClock.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_IntClock.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_IntClock.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SPIM_TFT_PM.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_PM.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_PM.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/SS_TFT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SS_TFT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SS_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SS_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SS_TFT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SS_TFT.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SS_TFT_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/TimeStamp_Timer.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/TimeStamp_Timer.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/TimeStamp_Timer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/TimeStamp_Timer.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/TimeStamp_Timer.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/TimeStamp_Timer_PM.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/TimeStamp_Timer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/TimeStamp_Timer_PM.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/TimeStamp_Timer_PM.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/audiotimer_isr.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/audiotimer_isr.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/audiotimer_isr.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/audiotimer_isr.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/audiotimer_isr.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/cyPm.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/cyfitter_cfg.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/cymetadata.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cymetadata.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cymetadata.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/cyutils.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyutils.c 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyutils.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/emFile_Clock_1.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_Clock_1.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_Clock_1.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_Clock_1.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_Clock_1.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/emFile_ConfigMMC_SPI.o : D:/FP/emFile/Code/Include/PSoC5/FS.h D:/FP/emFile/Code/Include/PSoC5/FS_ConfDefaults.h D:/FP/emFile/Code/Include/PSoC5/FS_Dev.h D:/FP/emFile/Code/Include/PSoC5/FS_Storage.h D:/FP/emFile/Code/Include/PSoC5/FS_Types.h D:/FP/emFile/Code/Include/PSoC5/MMC_X_HW.h D:/FP/emFile/Code/Include/PSoC5/emf32nOS/FS_Conf.h D:/FP/emWinGraphics_v5_46/Code/Include/PSoC4_5/Global.h D:/FP/emWinGraphics_v5_46/Code/Include/PSoC4_5/SEGGER.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_ConfigMMC_SPI.c 
+
+D:/FP/emFile/Code/Include/PSoC5/FS.h : 
+
+D:/FP/emFile/Code/Include/PSoC5/FS_ConfDefaults.h : 
+
+D:/FP/emFile/Code/Include/PSoC5/FS_Dev.h : 
+
+D:/FP/emFile/Code/Include/PSoC5/FS_Storage.h : 
+
+D:/FP/emFile/Code/Include/PSoC5/FS_Types.h : 
+
+D:/FP/emFile/Code/Include/PSoC5/MMC_X_HW.h : 
+
+D:/FP/emFile/Code/Include/PSoC5/emf32nOS/FS_Conf.h : 
+
+D:/FP/emWinGraphics_v5_46/Code/Include/PSoC4_5/Global.h : 
+
+D:/FP/emWinGraphics_v5_46/Code/Include/PSoC4_5/SEGGER.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_ConfigMMC_SPI.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/emFile_MMC_HW_SPI.o : D:/FP/emFile/Code/Include/PSoC5/FS.h D:/FP/emFile/Code/Include/PSoC5/FS_ConfDefaults.h D:/FP/emFile/Code/Include/PSoC5/FS_Dev.h D:/FP/emFile/Code/Include/PSoC5/FS_Storage.h D:/FP/emFile/Code/Include/PSoC5/FS_Types.h D:/FP/emFile/Code/Include/PSoC5/MMC_X_HW.h D:/FP/emFile/Code/Include/PSoC5/emf32nOS/FS_Conf.h D:/FP/emWinGraphics_v5_46/Code/Include/PSoC4_5/Global.h D:/FP/emWinGraphics_v5_46/Code/Include/PSoC4_5/SEGGER.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_Bypass.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_Bypass_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_IRQ.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_theACLK.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_AMux.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_Ext_CP_Clk.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_IRQ.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_theACLK.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/AudioTimer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CLK.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CLK_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CSLD.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CSLD_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyDmac.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DC.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DC_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DIN.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DIN_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_2.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_2_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/Get_ADCs_Timer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/LED.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/LED_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MOSI_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MOSI_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/RESET.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/RESET_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCLK_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCLK_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCL_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCL_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SDA_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SDA_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SS_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SS_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/TimeStamp_Timer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/audiotimer_isr.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cmsis_armcc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cmsis_gcc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cm3.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cmFunc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cmInstr.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydisabledsheets.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_Clock_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_MMC_HW_SPI.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_CS.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_CS_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_miso0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_miso0_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_mosi0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_mosi0_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_sclk0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_sclk0_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/get_adcs_isr.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/project.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/timestamp_timer_isr.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cmFunc.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cmInstr.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_MMC_HW_SPI.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_CS.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_CS_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_PVT.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_miso0.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_miso0_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_mosi0.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_mosi0_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_sclk0.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_sclk0_aliases.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/get_adcs_isr.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/project.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/timestamp_timer_isr.h : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/emFile_PM.o : D:/FP/emFile/Code/Include/PSoC5/MMC_X_HW.h D:/FP/emWinGraphics_v5_46/Code/Include/PSoC4_5/Global.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_Bypass.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_Bypass_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_IRQ.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_L_theACLK.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_AMux.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_Ext_CP_Clk.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_IRQ.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/ADC_FlexSensor_R_theACLK.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/AudioTimer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CLK.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CLK_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CSLD.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CSLD_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyDmac.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DC.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DC_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DIN.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/DIN_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_2.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/FlexSensor_2_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/Get_ADCs_Timer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/I2C_MASTER_L_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/LED.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/LED_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MISO_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MOSI_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/MOSI_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/RESET.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/RESET_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCLK_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCLK_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCL_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SCL_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SDA_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SDA_1_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_Audio_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_IntClock.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SPIM_TFT_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SS_TFT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/SS_TFT_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/TimeStamp_Timer.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/audiotimer_isr.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cmsis_armcc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cmsis_gcc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cm3.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cmFunc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/core_cmInstr.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydisabledsheets.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_Clock_1.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_PM.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_CS.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_CS_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_PVT.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_miso0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_miso0_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_mosi0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_mosi0_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_sclk0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_sclk0_aliases.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/get_adcs_isr.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/project.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/timestamp_timer_isr.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_PM.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/emFile_SPI0.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_PVT.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/emFile_SPI0_CS.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_CS.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_CS.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_CS_aliases.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_CS.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/emFile_SPI0_INT.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_INT.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_PVT.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_INT.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/emFile_SPI0_PM.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_PM.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_PVT.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_SPI0_PM.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/emFile_miso0.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_miso0.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_miso0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_miso0_aliases.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_miso0.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/emFile_mosi0.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_mosi0.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_mosi0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_mosi0_aliases.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_mosi0.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/emFile_sclk0.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cypins.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_sclk0.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_sclk0.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_sclk0_aliases.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/emFile_sclk0.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/get_adcs_isr.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/get_adcs_isr.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/get_adcs_isr.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/get_adcs_isr.c : 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/CortexM3/ARM_GCC_493/Debug/timestamp_timer_isr.o : D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyFlash.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CyLib.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/CySpc.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyPm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cyfitter.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/cytypes.h D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/timestamp_timer_isr.c D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/timestamp_timer_isr.h D:/FP/LiamKovid/KovidKonsole.cydsn/cyapicallbacks.h 
+
+D:/FP/LiamKovid/KovidKonsole.cydsn/Generated_Source/PSoC5/timestamp_timer_isr.c : 
+

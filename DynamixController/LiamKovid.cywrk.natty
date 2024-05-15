@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="LiamKovid\KovidKonsole\KovidKonsole.cydwr">
+<ExpandedNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\TopDesign</v>
+<v>LiamKovid\KovidKonsole\KovidKonsole.cydwr</v>
+<v>LiamKovid\KovidKonsole\Header Files</v>
+<v>LiamKovid\KovidKonsole\Header Files\cyapicallbacks.h</v>
+<v>LiamKovid\KovidKonsole\Source Files</v>
+<v>LiamKovid\KovidKonsole\Source Files\main.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A0</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A0\A0.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A0\A0.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A0\A0_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A1</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A1\A1.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A1\A1.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A1\A1_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A2</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A2\A2.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A2\A2.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A2\A2_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A3</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A3\A3.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A3\A3.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A3\A3_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A4</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A4\A4.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A4\A4.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A4\A4_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A5</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A5\A5.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A5\A5.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A5\A5_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A6</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A6\A6.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A6\A6.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A6\A6_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A7</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A7\A7.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A7\A7.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A7\A7_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\Clock_1</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\Clock_1\Clock_1.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\Clock_1\Clock_1.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cm3gcc.ld</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\Cm3Iar.icf</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\Cm3RealView.scat</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\Cm3Start.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cmsis_armcc.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cmsis_gcc.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\core_cm3.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\core_cm3_psoc5.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\core_cmFunc.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\core_cmInstr.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyBootAsmGnu.s</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyBootAsmIar.s</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyBootAsmRv.s</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyDmac.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyDmac.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyFlash.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyFlash.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyLib.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CyLib.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cypins.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cyPm.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cyPm.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CySpc.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\CySpc.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cytypes.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cy_boot\cyutils.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F0</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F0\F0.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F0\F0.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F0\F0_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F1</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F1\F1.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F1\F1.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F1\F1_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F2</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F2\F2.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F2\F2.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F2\F2_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F3</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F3\F3.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F3\F3.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F3\F3_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F4</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F4\F4.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F4\F4.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F4\F4_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F5</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F5\F5.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F5\F5.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F5\F5_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F6</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F6\F6.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F6\F6.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F6\F6_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F7</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F7\F7.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F7\F7.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F7\F7_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F8</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F8\F8.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F8\F8.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F8\F8_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F9</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F9\F9.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F9\F9.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\F9\F9_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FCLK</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FCLK\FCLK.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FCLK\FCLK.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\FCLK\FCLK_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevice.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevicerv.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cydisabledsheets.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfitter.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfitter_cfg.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfitter_cfg.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfittergnu.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfitteriar.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cyfitterrv.inc</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\cymetadata.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\TopDesign</v>
+<v>LiamKovid\KovidKonsole\KovidKonsole.cydwr</v>
+<v>LiamKovid\KovidKonsole\Header Files</v>
+<v>LiamKovid\KovidKonsole\Header Files\cyapicallbacks.h</v>
+<v>LiamKovid\KovidKonsole\Source Files</v>
+<v>LiamKovid\KovidKonsole\Source Files\main.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A0</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A0\A0.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A0\A0.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A0\A0_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A1</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A1\A1.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A1\A1.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A1\A1_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A2</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A2\A2.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A2\A2.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A2\A2_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A3</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A3\A3.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A3\A3.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A3\A3_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A4</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A4\A4.c</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A4\A4.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A4\A4_aliases.h</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A5</v>
+<v>LiamKovid\KovidKonsole\Generated_Source\PSoC5\A5\A5.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\TopDesign</v>
+<v>LiamKovid\KovidKonsole\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\TopDesign</v>
+<v>LiamKovid\KovidKonsole\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\CortexM3</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A2.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A3.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A4.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A5.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A6.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A7.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F2.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F3.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F4.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F5.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F6.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F7.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F8.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F9.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\FCLK.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\KovidKonsole.elf</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\KovidKonsole.hex</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\KovidKonsole.map</v>
+<v>LiamKovid\KovidKonsole\KovidKonsole.gpdsc</v>
+<v>LiamKovid\KovidKonsole\KovidKonsole.rpt</v>
+<v>LiamKovid\KovidKonsole\KovidKonsole_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\CortexM3</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A2.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A3.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A4.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A5.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A6.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\A7.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F0.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F1.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F2.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F3.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F4.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F5.lst</v>
+<v>LiamKovid\KovidKonsole\CortexM3\ARM_GCC_493\Debug\Listing Files\F6.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\PSoC 5 Architecture TRM</v>
+<v>LiamKovid\KovidKonsole\CY8C58LP Family Datasheet</v>
+<v>LiamKovid\KovidKonsole\System Reference Guides</v>
+<v>LiamKovid\KovidKonsole\System Reference Guides\cy_boot_v5_40</v>
+<v>LiamKovid\KovidKonsole\cy_clock_v2_20.pdf</v>
+<v>LiamKovid\KovidKonsole\cy_pins_v2_20</v>
+<v>LiamKovid\KovidKonsole\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LiamKovid</v>
+<v>LiamKovid\KovidKonsole</v>
+<v>LiamKovid\KovidKonsole\PSoC 5 Architecture TRM</v>
+<v>LiamKovid\KovidKonsole\CY8C58LP Family Datasheet</v>
+<v>LiamKovid\KovidKonsole\System Reference Guides</v>
+<v>LiamKovid\KovidKonsole\System Reference Guides\cy_boot_v5_40</v>
+<v>LiamKovid\KovidKonsole\cy_clock_v2_20.pdf</v>
+<v>LiamKovid\KovidKonsole\cy_pins_v2_20</v>
+<v>LiamKovid\KovidKonsole\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs />
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
